@@ -9,8 +9,8 @@ I'm a **React Developer** and a **Medical Student** with a passion for building 
 - **Tools:** VS Code, Figma , Adobe Illustrator 
 
 ## 📚 Projects
-1. **[Travel Trove](https://github.com/mahla-kh/TravelTrove)** — Short description of what the project does , click to explore ( https://world-wise-ecru.vercel.app/ ).
-2. **[Bite Alchemy](https://github.com/mahla-kh/Bite-Alchemy)** — Another brief explanation of the project, click to explore ( (https://bite-alchemy.vercel.app/) ). .
+1. **[Travel Trove](https://github.com/mahla-kh/TravelTrove)** — Capture your adventures and bring your journeys to life with an interactive map. Every place you visit becomes a part of your story. , click to explore ( https://world-wise-ecru.vercel.app/ ).
+2. **[Bite Alchemy](https://github.com/mahla-kh/Bite-Alchemy)** — Discover the perfect recipe by simply entering the ingredients you have at home. Let the magic of smart cooking inspire your next meal!, click to explore ( https://bite-alchemy.vercel.app/ ). .
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Your LinkedIn Profile](LinkedIn Link)
