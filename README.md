@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahla!
 
-<!--
-**mahla-kh/mahla-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm a **React Developer** and a **Medical Student** with a passion for building interactive web applications. I love combining creativity and logic to craft seamless user experiences.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Frontend:** React, JavaScript,Bootstrap , HTML, CSS
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code, Figma , Adobe Illustrator 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+1. **[Travel Trove](https://github.com/mahla-kh/TravelTrove)** — Short description of what the project does , click to explore ( https://world-wise-ecru.vercel.app/ ).
+2. **[Bite Alchemy](https://github.com/mahla-kh/Bite-Alchemy)** — Another brief explanation of the project, click to explore ( (https://bite-alchemy.vercel.app/) ). .
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile](LinkedIn Link)
+- **GitHub:** [mahla-kh](https://github.com/mahla-kh)
+- **Email:** khorashadizadeh011@gmail.com
+
+---
+
+⭐️ *Feel free to explore my repositories and drop a star if you like any of my projects!*
+
