@@ -5,7 +5,7 @@ I'm a **React Developer** with a passion for building interactive web applicatio
 
 ## 🚀 Skills
 - **Frontend:** React, Tailwindcss , JavaScript,Bootstrap , HTML, CSS
-- **Version Control:** Git, GitHub
+- **Backend:** Node.js, MongoDb , Postman
 - **Tools:** VS Code, Figma , Adobe Illustrator 
 
 ## 📚 Projects
@@ -14,7 +14,6 @@ I'm a **React Developer** with a passion for building interactive web applicatio
 3. **[Focus Flow](https://github.com/mahla-kh/Focus-Flow)** — Stay productive with a smart to-do list and a fully customizable focus timer. Organize your tasks by project name, deadline, and priority, while dual timers help you track both deep work and study sessions effortlessly!
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](LinkedIn Link)
 - **GitHub:** [mahla-kh](https://github.com/mahla-kh)
 - **Email:** khorashadizadeh011@gmail.com
 
