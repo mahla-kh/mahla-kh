@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahla!
 
 ## 🌟 About Me
-I'm a **React Developer** with a passion for building interactive web applications. I love combining creativity and logic to craft seamless user experiences.
+I'm a **MERN Developer** with a passion for building interactive web applications.
 
 ## 🚀 Skills
 - **Frontend:** React, Tailwindcss , JavaScript,Bootstrap , HTML, CSS
